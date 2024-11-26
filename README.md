@@ -9,7 +9,7 @@ My name is Jakob Zornig Kjellberg and I am 22 years old.
 ### Learning
 
  - Godot Engine
- - Better understanding of Block Ciphers
+ - Better understanding of Cryptographic protocol and Security principles
 
 ### Current projects
 
