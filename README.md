@@ -11,6 +11,7 @@ My name is Jakob Zornig Kjellberg and I am 22 years old.
  - Godot Engine
  - Better understanding of Cryptographic protocol and Security principles
  - Learning Rust
+ - Learning Neovim 
 
 ### Current projects
 
