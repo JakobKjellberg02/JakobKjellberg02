@@ -38,7 +38,7 @@ My name is Jakob Zornig Kjellberg and I am 22 years old.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-512x512-w4ecv3uh.png" height="40" alt="neovim logo"  />
 </div>
 
 ### Contact
