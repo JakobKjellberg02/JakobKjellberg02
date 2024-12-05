@@ -17,7 +17,6 @@ curl -s https://jakobkjellberg02.github.io/index.sh | bash
 
 ### Learning
 
- - Godot Engine
  - Better understanding of Cryptographic protocol and Security principles
  - Learning Rust
  - Learning Neovim 
@@ -25,7 +24,7 @@ curl -s https://jakobkjellberg02.github.io/index.sh | bash
 ### Current projects
 
  - Dedicated Music bot using Discord API
- - Multiplayer Game in Godot
+ - Small Rust Projects
 
 ### Programming skills
 <div align="left">
