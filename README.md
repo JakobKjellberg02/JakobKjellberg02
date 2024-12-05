@@ -6,12 +6,13 @@ My name is Jakob Zornig Kjellberg and I am 22 years old.
  - Studying B.A. Software Engineering at the Technical University of Denmark 🇩🇰
  - Want to study MSc in Computer Science and Engineering with Specialization in Computer Security
 
- If you're interested in my cool ideas, blogs, thoughts, and more, check out:
- [jakobkjellberg02.github.io](https://jakobkjellberg02.github.io/) <space><space>
- Or use the following curl command: (**Recommended**) 
- '''bash
- curl -s https://jakobkjellberg02.github.io/index.sh | bash
- '''
+ If you're interested in my cool ideas, blogs, thoughts, and more, check out:  
+[jakobkjellberg02.github.io](https://jakobkjellberg02.github.io/)
+
+Or use the following curl command: (**Recommended**)  
+```bash
+curl -s https://jakobkjellberg02.github.io/index.sh | bash
+```
  
 
 ### Learning
