@@ -8,7 +8,7 @@ My name is Jakob Zornig Kjellberg and I am 22 years old.
 
  If you're interested in my cool ideas, blogs, thoughts, and more, check out:
  [ttps://jakobkjellberg02.github.io/](https://jakobkjellberg02.github.io/)
- Or use the following curl command: (** Recommended **)
+ Or use the following curl command: (**Recommended**) \
  '''bash
  curl -s https://jakobkjellberg02.github.io/index.sh | bash
  '''
