@@ -25,6 +25,7 @@ curl -s https://jakobkjellberg02.github.io/index.sh | bash
 
  - Dedicated Music bot using Discord API
  - Small Rust Projects
+ - Bash site
 
 ### Programming skills
 <div align="left">
