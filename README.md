@@ -4,7 +4,6 @@
 My name is Jakob Zornig Kjellberg and I am 22 years old.
 
  - Studying MSc in Computer Science and Engineering at the Technical University of Denmark 🇩🇰
- - Want to study MSc in Computer Science and Engineering with Specialization in Computer Security
 
  If you're interested in my cool ideas, blogs, thoughts, and more, check out:  
 [jakobkjellberg02.github.io](https://jakobkjellberg02.github.io/)
@@ -19,11 +18,11 @@ curl -s https://jakobkjellberg02.github.io/index.sh | bash
 
  - Better understanding of Cryptographic protocol and Security principles
  - Learning Rust
- - Learning Neovim 
+ - Learning Neovim
 
 ### Current projects
 
- - Dedicated Music bot using Discord API
+ - Tacitcal Multiplayer Game using Phaser
  - Small Rust Projects
  - Bash scripting with website
 
