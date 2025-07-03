@@ -3,7 +3,7 @@
 ### About me
 My name is Jakob Zornig Kjellberg and I am 22 years old.
 
- - Studying B.A. Software Engineering at the Technical University of Denmark 🇩🇰
+ - Studying MSc in Computer Science and Engineering at the Technical University of Denmark 🇩🇰
  - Want to study MSc in Computer Science and Engineering with Specialization in Computer Security
 
  If you're interested in my cool ideas, blogs, thoughts, and more, check out:  
