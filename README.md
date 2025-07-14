@@ -23,6 +23,7 @@ curl -s https://jakobkjellberg02.github.io/index.sh | bash
 ### Current projects
 
  - Tacitcal Multiplayer Game using Phaser
+ - Godot Multiplayer
  - Small Rust Projects
  - Bash scripting with website
 
