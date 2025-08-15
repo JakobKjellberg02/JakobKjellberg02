@@ -17,12 +17,13 @@ curl -s https://jakobkjellberg02.github.io/index.sh | bash
 ### Learning
 
  - Better understanding of Cryptographic protocol and Security principles
+ - Learning basic frontend 
  - Learning Rust
- - Learning Neovim
 
 ### Current projects
 
  - Singleplayer game in Unity
+ - BoligSwipe
  - Small Rust Projects
  - Bash scripting with website
 
