@@ -1,7 +1,7 @@
 ## Hi, I am Jakob Zornig Kjellberg 👋
 ![Bamse](https://avatars.githubusercontent.com/u/7950662?v=4)
 ### About me
-My name is Jakob Zornig Kjellberg and I am 22 years old.
+My name is Jakob Zornig Kjellberg and I am 23 years old.
 
  - Studying MSc in Computer Science and Engineering at the Technical University of Denmark 🇩🇰
 
@@ -12,44 +12,6 @@ Or use the following curl command: (**Recommended**)
 ```bash
 curl -s https://jakobkjellberg02.github.io/index.sh | bash
 ```
- 
-
-### Learning
-
- - Better understanding of Cryptographic protocol and Security principles
- - Learning basic frontend 
- - Learning Rust
-
-### Current projects
-
- - Singleplayer game in Unity
- - BoligSwipe
- - Small Rust Projects
- - Bash scripting with website
-
-### Programming skills
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-512x512-w4ecv3uh.png" height="40" alt="neovim logo"  />
-</div>
-
 ### Contact
 <div align="left">
   <a href="mailto:jakobzornigkjellberg@gmail.com" target="_blank">
