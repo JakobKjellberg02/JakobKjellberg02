@@ -5,7 +5,7 @@ My name is Jakob Zornig Kjellberg and I am 23 years old.
 
  - Studying MSc in Computer Science and Engineering at the Technical University of Denmark 🇩🇰
 
- If you're interested in my cool ideas, blogs, thoughts, and more, check out:  
+ If you're interested in my cool ideas, blogs, thoughts, and more, check out my website:
 [jakobkjellberg02.github.io](https://jakobkjellberg02.github.io/)
 
 Or use the following curl command: (**Recommended**)  
