@@ -7,6 +7,8 @@ My name is Jakob Zornig Kjellberg and I am 23 years old.
 
  If you're interested in my cool ideas, blogs, thoughts, and more, check out my website:
 [jakobkjellberg02.github.io](https://jakobkjellberg02.github.io/)
+and also check out the below GitHub organization for upcoming nice projects:
+[Joe Game Studios](https://github.com/Joe-Game-Studios)
 
 Or use the following curl command: (**Recommended**)  
 ```bash
