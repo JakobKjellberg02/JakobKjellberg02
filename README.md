@@ -6,12 +6,16 @@ My name is Jakob Zornig Kjellberg and I am 23 years old.
  - Studying MSc in Computer Science and Engineering at the Technical University of Denmark 🇩🇰
 
  If you're interested in my cool ideas, blogs, thoughts, and more, check out my website:
-[jakobkjellberg02.github.io](https://jakobkjellberg02.github.io/) <br />
+[jakobkjellberg02.github.io](https://jakobkjellberg02.github.io/) <br/>
 
 Or use the following curl command: (**Recommended**)  
 ```bash
 curl -s https://jakobkjellberg02.github.io/index.sh | bash
 ```
+Also check out our Homelab made with [Filip](https://github.com/PrestigeDK) (maybe it is down because of kWh price or maintenance) <br/>
+https://jakobkjellberg.xyz/
+
+
 ### Contact
 <div align="left">
   <a href="mailto:jakobzornigkjellberg@gmail.com" target="_blank">
