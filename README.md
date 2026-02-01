@@ -16,7 +16,7 @@ Also check out our Homelab made with [Filip](https://github.com/PrestigeDK) (may
 https://jakobkjellberg.xyz/
 
 ### Hack The Box - Progress
-If I am not studying, playing games with my friends or trying to run, my goal is to learn something new everyday. You can use the Student ID: HTB-773307D9E8 or see the [Transcript](https://github.com/JakobKjellberg02/JakobKjellberg02/blob/main/HTB%20Academy%20Student%20Transcript.pdf) (**Recommended**). The latest transcript should get updated everytime a new module has been completed.
+If I am not studying, playing games with my friends or trying to run, my goal is to learn something new everyday. <br/> You can use the Student ID: HTB-773307D9E8 or see the [Transcript](https://github.com/JakobKjellberg02/JakobKjellberg02/blob/main/HTB%20Academy%20Student%20Transcript.pdf) (**Recommended**). The latest transcript should get updated everytime a new module has been completed.
 
 
 
