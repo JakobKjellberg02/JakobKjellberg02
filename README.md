@@ -1,5 +1,5 @@
 ## Hi, I am Jakob Zornig Kjellberg 👋
-![Bamse](https://avatars.githubusercontent.com/u/7950662?v=4)
+![Mig](https://avatars.githubusercontent.com/u/7950662?v=4&s=300)
 ### About me
 My name is Jakob Zornig Kjellberg and I am 23 years old.
 
