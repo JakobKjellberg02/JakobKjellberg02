@@ -13,7 +13,9 @@ Or use the following curl command: (**Recommended**)
 curl -s https://jakobkjellberg02.github.io/index.sh | bash
 ```
 Also check out our Homelab made with [Filip](https://github.com/PrestigeDK) (maybe it is down because of kWh price or maintenance) <br/>
-https://jakobkjellberg.xyz/
+https://jakobkjellberg.xyz/ (Just a redirect to Gihub page for now) <br/>
+https://hub.filippedersen.xyz/ (Doesn't have a landing page for the public - needs login)
+
 
 ### Hack The Box - Progress
 If I am not studying, playing games with my friends or trying to run, my goal is to learn something new everyday. <br/> You can use the Student ID: *HTB-773307D9E8* or see the [Transcript](https://github.com/JakobKjellberg02/JakobKjellberg02/blob/main/HTB%20Academy%20Student%20Transcript.pdf) (**Recommended**). <br/> The latest transcript should get updated everytime a new module has been completed.
