@@ -10,7 +10,7 @@ My name is Jakob Zornig Kjellberg and I am 23 years old.
 
 Or use the following curl command: (**Recommended**)  
 ```bash
-curl -s https://jakobkjellberg02.xyz/index.sh | bash
+curl -s https://jakobkjellberg.xyz/index.sh | bash
 ```
 Also check out our Homelab made with [Filip](https://github.com/PrestigeDK) (maybe it is down because of kWh price or maintenance) <br/>
 https://jakobkjellberg.xyz/ (Just a redirect to Gihub page for now) <br/>
