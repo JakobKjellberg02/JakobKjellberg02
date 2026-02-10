@@ -25,9 +25,12 @@ If I am not studying, playing games with my friends or trying to run, my goal is
 ### Contact
 <div align="left">
   <a href="mailto:jakobzornigkjellberg@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Mail"  />
   </a>
   <a href="https://discordapp.com/users/105265076419751936" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord"  />
   </a>
+ <a href="https://matrix.to/#/@jakobkjellberg02:matrix.org" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJH0L0JQqywGqqYjtww3kRnjLKuk4a5Lk1Ww&s" width="52" height="40" alt="Matrix" />
+ </a>
 </div>
