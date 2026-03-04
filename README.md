@@ -18,7 +18,8 @@ https://hub.filippedersen.xyz/ (Doesn't have a landing page for the public - nee
 
 
 ### Hack The Box - Progress
-If I am not studying, playing games with my friends or trying to run, my goal is to learn something new everyday. <br/> You can use the Student ID: *HTB-773307D9E8* or see the [Transcript](https://github.com/JakobKjellberg02/JakobKjellberg02/blob/main/HTB%20Academy%20Student%20Transcript.pdf) (**Recommended**). <br/> The latest transcript should get updated everytime a new module has been completed.
+If I am not studying, playing games with my friends or trying to run, my goal is to learn something new everyday on **Hack The Box Academy**. <br/> You can use the Student ID: *HTB-773307D9E8* or see the [Transcript](https://github.com/JakobKjellberg02/JakobKjellberg02/blob/main/HTB%20Academy%20Student%20Transcript.pdf) (**Recommended**). <br/> The latest transcript should get updated everytime a new module has been completed. <br/>
+My profile on **Hack The Box Labs** is [JakobKjellberg02](https://app.hackthebox.com/public/users/2686000) where you can see which machines I have pwned.
 
 
 
