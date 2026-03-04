@@ -13,7 +13,7 @@ Or use the following curl command: (**Recommended**)
 curl -s https://jakobkjellberg.xyz/index.sh | bash
 ```
 Also check out our Homelab made with [Filip](https://github.com/PrestigeDK) (maybe it is down because of kWh price or maintenance) <br/>
-https://jakobkjellberg.xyz/ (Just a redirect to Gihub page for now) <br/>
+https://jakobkjellberg.xyz/ (Just a redirect to Github page for now) <br/>
 https://hub.filippedersen.xyz/ (Doesn't have a landing page for the public - needs login)
 
 
