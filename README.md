@@ -23,15 +23,17 @@ If I am not studying, playing games with my friends or trying to run, my goal is
 My profile on **Hack The Box Labs** is [JakobKjellberg02](https://app.hackthebox.com/public/users/2686000) where you can see which machines I have pwned.
 
 ### Profiles
-<a href="https://github.com/JakobKjellberg02/JakobKjellberg02/blob/main/HTB%20Academy%20Student%20Transcript.pdf">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" width="40" height="40"/>
-</a>
-<a href="https://pwn.college/hacker/166195">
-  <img src="https://yt3.googleusercontent.com/2ZnQYBuHMfoFeRfYwu7g1THY1JiELyH7wfvMHF3o8jSFbDGsnsSBf-dyVlzyaiQp-qXRZuBCsg=s900-c-k-c0x00ffffff-no-rj" width="40" height="40"/>
-</a>
-<a href="https://cryptohack.org/user/JakobKjellberg02/">
-  <img src="https://avatars.githubusercontent.com/u/77625051?s=200&v=4" width="40" height="40"/>
-</a>
+<div align="left">
+ <a href="https://github.com/JakobKjellberg02/JakobKjellberg02/blob/main/HTB%20Academy%20Student%20Transcript.pdf">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" width="40" height="40"/>
+ </a>
+ <a href="https://pwn.college/hacker/166195">
+   <img src="https://yt3.googleusercontent.com/2ZnQYBuHMfoFeRfYwu7g1THY1JiELyH7wfvMHF3o8jSFbDGsnsSBf-dyVlzyaiQp-qXRZuBCsg=s900-c-k-c0x00ffffff-no-rj" width="40" height="40"/>
+ </a>
+ <a href="https://cryptohack.org/user/JakobKjellberg02/">
+   <img src="https://avatars.githubusercontent.com/u/77625051?s=200&v=4" width="40" height="40"/>
+ </a>
+</div>
 
 
 
