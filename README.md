@@ -1,5 +1,6 @@
 <div align="center">
 <h1> Hi, I am Jakob Zornig Kjellberg 👋 </h1>
+</div>  
 <pre>
                     _       _         _     _  ___      _ _ _                     ___ ___  
                    | |     | |       | |   | |/ (_)    | | | |                   / _ \__ \ 
@@ -10,6 +11,7 @@
                                               _/ |                         __/ |          
                                              |__/                         |___/               
 </pre>
+<div align="center">
 🇩🇰 MSc Computer Science & Engineering student at DTU 🇩🇰
 Cybersecurity • Infrastructure • CTFs
 </div>
