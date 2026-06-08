@@ -1,28 +1,28 @@
 ## Hi, I am Jakob Zornig Kjellberg 👋
-![Mig](https://avatars.githubusercontent.com/u/7950662?v=4&s=300)
-### About me
-My name is Jakob Zornig Kjellberg and I am 23 years old.
+<pre>
+                                                                                                                                                                            
+         ,---._                                                  ,--.                                                                                                       
+       .-- -.' \                   ,-.                       ,--/  /|                    ,--,    ,--,                                               ,----..        ,----,   
+       |    |   :              ,--/ /|            ,---,   ,---,': / '                  ,--.'|  ,--.'|     ,---,                                    /   /   \     .'   .' \  
+       :    ;   |            ,--. :/ |   ,---.  ,---.'|   :   : '/ /     .--.          |  | :  |  | :   ,---.'|               __  ,-.             /   .     :  ,----,'    | 
+       :        |            :  : ' /   '   ,'\ |   | :   |   '   ,    .--,`|          :  : '  :  : '   |   | :             ,' ,'/ /|  ,----._,. .   /   ;.  \ |    :  .  ; 
+       |    :   :  ,--.--.   |  '  /   /   /   |:   : :   '   |  /     |  |.    ,---.  |  ' |  |  ' |   :   : :      ,---.  '  | |' | /   /  ' /.   ;   /  ` ; ;    |.'  /  
+       :          /       \  '  |  :  .   ; ,. ::     |,-.|   ;  ;     '--`_   /     \ '  | |  '  | |   :     |,-.  /     \ |  |   ,'|   :     |;   |  ; \ ; | `----'/  ;   
+       |    ;   |.--.  .-. | |  |   \ '   | |: :|   : '  |:   '   \    ,--,'| /    /  ||  | :  |  | :   |   : '  | /    /  |'  :  /  |   | .\  .|   :  | ; | '   /  ;  /    
+   ___ l          \__\/: . . '  : |. \'   | .; :|   |  / :|   |    '   |  | '.    ' / |'  : |__'  : |__ |   |  / :.    ' / ||  | '   .   ; ';  |.   |  ' ' ' :  ;  /  /-,   
+ /    /\    J   : ," .--.; | |  | ' \ \   :    |'   : |: |'   : |.  \  :  | |'   ;   /||  | '.'|  | '.'|'   : |: |'   ;   /|;  : |   '   .   . |'   ;  \; /  | /  /  /.`|   
+/  ../  `..-    ,/  /  ,.  | '  : |--' \   \  / |   | '/ :|   | '_\.'__|  : ''   |  / |;  :    ;  :    ;|   | '/ :'   |  / ||  , ;    `---`-'| | \   \  ',  /./__;      :   
+\    \         ;;  :   .'   \;  |,'     `----'  |   :    |'   : |  .'__/\_: ||   :    ||  ,   /|  ,   / |   :    ||   :    | ---'     .'__/\_: |  ;   :    / |   :    .'    
+ \    \      ,' |  ,     .-./'--'               /    \  / ;   |,'  |   :    : \   \  /  ---`-'  ---`-'  /    \  /  \   \  /           |   :    :   \   \ .'  ;   | .'       
+  "---....--'    `--`---'                       `-'----'  '---'     \   \  /   `----'                   `-'----'    `----'             \   \  /     `---`    `---'          
+                                                                     `--`-'                                                             `--`-'                              
+</pre>
+🇩🇰 MSc Computer Science & Engineering student at DTU 🇩🇰
 
- - Studying MSc in Computer Science and Engineering at the Technical University of Denmark 🇩🇰
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,powershell,bash,sqlite)](https://skillicons.dev)
 
- If you're interested in my cool ideas, blogs, thoughts, and more, check out my website:
-[jakobkjellberg02.xyz](https://jakobkjellberg.xyz/) <br/>
-
-Or use the following curl command: (**Recommended**)  
-```bash
-curl -s https://jakobkjellberg.xyz/index.sh | bash
-```
-Also check out our Homelab made with [Filip](https://github.com/PrestigeDK) (maybe it is down because of kWh price or maintenance) <br/>
-https://jakobkjellberg.xyz/ (Just a redirect to Github page for now) <br/>
-https://hub.filippedersen.xyz/ (Doesn't have a landing page for the public - needs login)
-
-
-### Hack The Box - Progress
-If I am not studying, playing games with my friends or trying to run, my goal is to learn something new everyday on **Hack The Box Academy**. <br/> You can use the Student ID: *HTB-773307D9E8* or see the [Transcript](https://github.com/JakobKjellberg02/JakobKjellberg02/blob/main/HTB%20Academy%20Student%20Transcript.pdf) (**Recommended**). <br/> The latest transcript should get updated everytime a new module has been completed. 
-
-My profile on **Hack The Box Labs** is [JakobKjellberg02](https://app.hackthebox.com/public/users/2686000) where you can see which machines I have pwned.
-
-### Profiles
+### Capture The Flags (CTF)
 <div align="left">
  <a href="https://github.com/JakobKjellberg02/JakobKjellberg02/blob/main/HTB%20Academy%20Student%20Transcript.pdf">
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" width="40" height="40"/>
@@ -34,8 +34,6 @@ My profile on **Hack The Box Labs** is [JakobKjellberg02](https://app.hackthebox
    <img src="https://avatars.githubusercontent.com/u/77625051?s=200&v=4" width="40" height="40"/>
  </a>
 </div>
-
-
 
 ### Contact
 <div align="left">
