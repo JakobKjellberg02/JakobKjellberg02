@@ -17,7 +17,7 @@ Cybersecurity • Infrastructure • CTFs
 </div>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,powershell,bash,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,powershell,bash,sqlite,docker,kali)](https://skillicons.dev)
 
 ### Capture The Flags (CTF)
 <div align="left">
