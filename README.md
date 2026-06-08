@@ -44,3 +44,5 @@ Cybersecurity • Infrastructure • CTFs
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJH0L0JQqywGqqYjtww3kRnjLKuk4a5Lk1Ww&s" width="52" height="40" alt="Matrix" />
  </a>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JakobKjellberg02&bg_color=ffffff&color=000000&line=33cd1d&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
