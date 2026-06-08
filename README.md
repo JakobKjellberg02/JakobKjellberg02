@@ -12,7 +12,7 @@
                                              |__/                         |___/               
 </pre>
 <div align="center">
-🇩🇰 MSc Computer Science & Engineering student at DTU 🇩🇰
+🇩🇰 MSc Computer Science & Engineering student at DTU 🇩🇰   <br>
 Cybersecurity • Infrastructure • CTFs
 </div>
 
