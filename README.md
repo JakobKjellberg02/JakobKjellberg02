@@ -1,3 +1,4 @@
+<div align="center">
 ## Hi, I am Jakob Zornig Kjellberg 👋
 <pre>
                     _       _         _     _  ___      _ _ _                     ___ ___  
@@ -10,6 +11,8 @@
                                              |__/                         |___/               
 </pre>
 🇩🇰 MSc Computer Science & Engineering student at DTU 🇩🇰
+Cybersecurity • Infrastructure • CTFs
+</div>
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,powershell,bash,sqlite)](https://skillicons.dev)
