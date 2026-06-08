@@ -1,5 +1,5 @@
 <div align="center">
-## Hi, I am Jakob Zornig Kjellberg 👋
+<h1> Hi, I am Jakob Zornig Kjellberg 👋 </h1>
 <pre>
                     _       _         _     _  ___      _ _ _                     ___ ___  
                    | |     | |       | |   | |/ (_)    | | | |                   / _ \__ \ 
