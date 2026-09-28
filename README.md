@@ -19,6 +19,9 @@ Cybersecurity • Infrastructure • CTFs
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,java,cs,c,rust,powershell,bash,sqlite,docker,kali)](https://skillicons.dev)
 
+### Hack The Box Transcript
+<a href="https://github.com/JakobKjellberg02/JakobKjellberg02/blob/main/HTB%20Academy%20Student%20Transcript.pdf" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" width="40" height="40" alt="Hack The Box Transcript" /> </a>
+
 ### Capture The Flags (CTF)
 <div align="left">
  <a href="https://github.com/JakobKjellberg02/JakobKjellberg02/blob/main/HTB%20Academy%20Student%20Transcript.pdf">
